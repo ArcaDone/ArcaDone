@@ -23,14 +23,8 @@ Precisely for this reason 🔭 I’m currently working as a mobile developer and
 
 <!-- Most used languages -->
 <a href="https://github.com/ArcaDone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaDone&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=A5BE00&bg_color=1d1f21" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaDone&hide=hlsl,html,ShaderLab&title_color=ffffff&text_color=c9cacc&icon_color=A5BE00&bg_color=1d1f21" />
 </a>
-
-<!-- Project
-<a href="https://github.com/Barros9/AndroidArchitectureCompare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barros9&repo=AndroidArchitectureCompare&title_color=ffffff&text_color=c9cacc&icon_color=ff7900&bg_color=1d1f21" />
-</a>
- -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
