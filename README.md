@@ -23,7 +23,7 @@ Precisely for this reason 🔭 I’m currently working as a mobile developer and
 
 <!-- Most used languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaDone&layout=compact&title_color=A5BE00&text_color=c9cacc&icon_color=A5BE00&bg_color=1d1f21)](https://github.com/ArcaDone/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaDone&layout=compact&title_color=A5BE00&hide=HLSL,ShaderLab&text_color=c9cacc&icon_color=A5BE00&bg_color=1d1f21)](https://github.com/ArcaDone/github-readme-stats)
 
 
 <!-- Resources -->
