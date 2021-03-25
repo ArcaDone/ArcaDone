@@ -18,13 +18,13 @@ Precisely for this reason 🔭 I’m currently working as a mobile developer and
 
 <!-- GitHub Stats -->
 <a href="https://github.com/ArcaDone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArcaDone&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=A5BE00&bg_color=1d1f21" alt="ArcaDone's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArcaDone&theme=merko&show_icons=true" alt="ArcaDone's GitHub Stats" />
 </a>
 
 <!-- Most used languages -->
-<a href="https://github.com/ArcaDone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaDone&hide=hlsl,html,ShaderLab&title_color=ffffff&text_color=c9cacc&icon_color=A5BE00&bg_color=1d1f21" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaDone&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=A5BE00&bg_color=1d1f21)](https://github.com/ArcaDone/github-readme-stats)
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
